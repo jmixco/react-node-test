@@ -1,0 +1,13 @@
+.m-item{
+    height: 30px;
+    padding: 5px;
+    border: 1px solid;
+    text-align: center;
+    
+}
+
+.m-item.act {
+    /*background-color: greenyellow;*/
+    color: red;
+    font-weight: bolder;
+}
